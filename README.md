@@ -1,0 +1,11 @@
+# CodeIgniter-DIGICAL
+tugas PABWEB CodeIgniter
+DIGICAL TEAM
+TPL-A-P 1
+KELOMPOK 7
+
+Anggota Kelompok :
+- Muhammad Abdullah Alwahdi   J0303201157
+- Timothy Ardhaneswara              J0303202173
+- Subkhan Avina Dewanto            J0303201137
+
